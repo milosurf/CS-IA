@@ -60,9 +60,8 @@ Platform:
 PC – Python program
 
 Why this is the correct platform:
-- The program is mainly for personal use.
-- A PC allows easier data entry and viewing of large tables.
-- Python provides good support for data handling and simple interfaces.
+- Just for personal use
+- Great for data entry and viewing tables and graphs
 
 Teacher comments
 ════════════════
