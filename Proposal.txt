@@ -1,0 +1,68 @@
+                         ━━━━━━━━━━━━━━━━
+                          CS IA PROPOSAL
+                         ━━━━━━━━━━━━━━━━
+
+
+Project title
+═════════════
+
+Business Tracker for PC Re-selling
+
+
+Problem description
+═══════════════════
+
+I do PC re-selling as a side hustle, where I buy PCs and get a new case
+and some components, install them, and sell for profit. I need to
+keep track of inventory and find compatible parts, as well as track
+sales, profit margins, etc.
+
+Source of the problem:
+Personal
+
+How is the situation handled currently:
+Currently I keep track of PC parts and sales with Excel. Checking the
+compatibility of parts is very time consuming, as I have to check
+power consumption, CPU socket generation, motherboard ports, etc. whenever
+making an upgrade.
+
+What causes the problem solved in this project?
+- PC components have many technical compatibility requirements.
+- Checking compatibility manually requires searching multiple websites.
+- Tracking profits and inventory in spreadsheets becomes messy over time.
+
+Main objective features of a computational solution:
+- Store PC builds and component information in a structured database.
+- Automatically check compatibility between components.
+- Track purchases, upgrades, and sales.
+- Calculate profits and performance of different flips.
+
+
+Success criteria
+════════════════
+
+- Profit calculator (average profit, total profit, ROI)
+- Track how long a PC listing has been active
+- Suggest when to decrease the sale price
+- Check compatibility between parts (socket, memory type, wattage, etc.)
+- Database of component attributes
+- Input form for PC specifications
+- Track inventory and past sales
+- Graphs showing long-term sales and profits
+- Estimated resale price calculator
+- Recommend possible upgrades
+
+
+Solution platform
+═════════════════
+
+Platform:
+PC – Python program
+
+Why this is the correct platform:
+- The program is mainly for personal use.
+- A PC allows easier data entry and viewing of large tables.
+- Python provides good support for data handling and simple interfaces.
+
+Teacher comments
+════════════════
