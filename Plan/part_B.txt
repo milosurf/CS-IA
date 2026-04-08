@@ -1,0 +1,43 @@
+  ━━━━━━━━━━
+                                PLAN (B)
+                               ━━━━━━━━━━
+
+
+Introduction
+════════════
+
+  Copy this file into your IA project. Address all items below, removing
+  each item once addressed. Finally remove this first section, save the
+  file, and push onto GitHub.
+
+  This document must be updated when plan evolves.
+
+
+Project steps
+═════════════
+
+  1. specification
+  2. planning
+  3. development
+  4. testing and evaluation
+
+
+  [Add 2–4 project-specific substeps to all items above]
+
+
+System storyboard
+═════════════════
+
+
+Plan
+════
+
+  ┍━━━━━━┯━━━━━━━━━━┯━━━━━━━━━━━┑
+  │ task │ work (h) │ timeframe │
+  ├──────┼──────────┼───────────┤
+  │      │          │           │
+  │      │          │           │
+  │      │          │           │
+  │      │          │           │
+  │      │          │           │
+  ┕━━━━━━┷━━━━━━━━━━┷━━━━━━━━━━━┙
