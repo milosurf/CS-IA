@@ -41,20 +41,16 @@ Main objective features of a computational solution:
 Success criteria
 ════════════════
 
-1. Profit calculator (average profit, total profit, ROI)
-2. Track how long a PC listing has been active
-3. Suggest when to decrease the sale price
-4. Check compatibility between parts (socket, memory type, wattage, etc.)
-5. Database of component attributes
-6. Input form for PC specifications
-7. Track inventory and past sales
-8. Graphs showing long-term sales and profits
-9. Estimated resale price calculator
-10. Recommend possible upgrades
-
-1. Storing PC parts and builds in a structured database
-    - includes 
-    - 
+- Profit calculator (average profit, total profit, ROI)
+- Track how long a PC listing has been active
+- Suggest when to decrease the sale price
+- Check compatibility between parts (socket, memory type, wattage, etc.)
+- Database of component attributes
+- Input form for PC specifications
+- Track inventory and past sales
+- Graphs showing long-term sales and profits
+- Estimated resale price calculator
+- Recommend possible upgrades
 
 
 Solution platform
@@ -69,3 +65,22 @@ Why this is the correct platform:
 
 Teacher comments
 ════════════════
+- need: extremely clear
+
+- challenge: difficulty in managing all structured information
+  (e.g. different pc builds)
+
+- platform: ok
+
+success criteria:
+
+you need to start from the basics: what information is stored and how
+(components, specifications, inventory, sales)
+
+1. implies storage of inventory prices
+2. "listing"? sales listing?
+3. based on what?
+4. how challenging will this be?
+6. what exactly is a specification here?
+9. based on what?
+10. of what?

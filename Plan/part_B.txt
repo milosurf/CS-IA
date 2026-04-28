@@ -6,19 +6,28 @@
 Introduction
 ════════════
 
-  Copy this file into your IA project. Address all items below, removing
-  each item once addressed. Finally remove this first section, save the
-  file, and push onto GitHub.
-
-  This document must be updated when plan evolves.
 
 
 Project steps
 ═════════════
 
   1. specification
+- Define all required features (inventory tracking, compatibility checker, profit calculator)
+- Identify data fields for components (CPU socket, wattage, RAM type, etc.)
+- Determine user inputs and outputs (forms, reports, graphs)
+- Set success criteria based on usability and accuracy
+
   2. planning
+  - Design database structure (tables for components, builds, sales, inventory)
+  - Plan program architecture (modules for compatibility, pricing, tracking)
+  - Choose libraries (e.g. Pandas, Matplotlib, SQLite)
+  - Create UI layout (input forms, dashboards, graphs)
+
   3. development
+  - Develop profit tracking and analytics features
+  - Create user interface for data entry and visualization
+  - database
+  
   4. testing and evaluation
 
 
