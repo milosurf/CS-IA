@@ -41,17 +41,30 @@ Main objective features of a computational solution:
 Success criteria
 ════════════════
 
-- Profit calculator (average profit, total profit, ROI)
-- Track how long a PC listing has been active
-- Suggest when to decrease the sale price
-- Check compatibility between parts (socket, memory type, wattage, etc.)
-- Database of component attributes
-- Input form for PC specifications
-- Track inventory and past sales
-- Graphs showing long-term sales and profits
-- Estimated resale price calculator
-- Recommend possible upgrades
-
+1. Profit calculator (average profit, total profit, ROI)
+  - Store purchase price, upgrade costs, and sale price for each PC
+  - Show averages over all completed sales
+2. Track how long a PC listing has been active
+  - Store listing date and sale date for each PC
+  - Calculate days acitve
+3. Suggest when to decrease the sale price
+  - Based on time unsold (e.g. > 14 days)
+  - Suggest reduction (e.g. 10% every week after 2 weeks)
+4. Database of component attributes
+  - Cpus: sockets, generation, power usage
+  - GPUs: power usage
+  - MoBo: socket, RAM support
+  - RAM: type, size
+  - PSU: wattage
+5. Compatibility checker
+  - Check if CPU socket matches motherboard
+  - Check if PSU wattage is sufficient for CPU and GPU
+  - Check if RAM type is supported by motherboard
+6. Input form for PC specifications
+  - Upload data into database 
+  - CPU socket, generation, etc.
+7. Track inventory and past sales
+8. Graphs showing long-term sales and profits
 
 Solution platform
 ═════════════════
@@ -76,11 +89,3 @@ success criteria:
 
 you need to start from the basics: what information is stored and how
 (components, specifications, inventory, sales)
-
-1. implies storage of inventory prices
-2. "listing"? sales listing?
-3. based on what?
-4. how challenging will this be?
-6. what exactly is a specification here?
-9. based on what?
-10. of what?
