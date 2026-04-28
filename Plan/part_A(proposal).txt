@@ -63,8 +63,10 @@ Success criteria
 6. Input form for PC specifications
   - Upload data into database 
   - CPU socket, generation, etc.
-7. Track inventory and past sales
-8. Graphs showing long-term sales and profits
+7. Graphs showing long-term sales and profits
+8. PC listing maker
+  - Base template
+  - Input the 
 
 Solution platform
 ═════════════════

@@ -14,8 +14,8 @@ Project steps
   1. specification
 - Define all required features (inventory tracking, compatibility checker, profit calculator)
 - Identify data fields for components (CPU socket, wattage, RAM type, etc.)
-- Determine user inputs and outputs (forms, reports, graphs)
-- Set success criteria based on usability and accuracy
+- Determine user inputs and outputs (forms, graphs)
+- Set success criteria for each feature
 
   2. planning
   - Design database structure (tables for components, builds, sales, inventory)
@@ -27,7 +27,7 @@ Project steps
   - Develop profit tracking and analytics features
   - Create user interface for data entry and visualization
   - database
-  
+
   4. testing and evaluation
 
 
